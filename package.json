@@ -1,6 +1,6 @@
 {
-   "name": "roxo_eleventy",
-   "version": "1.0.0",
+   "name": "breckwahpchessorg-website",
+   "version": "0.0.1",
    "description": "",
    "main": ".eleventy.js",
    "scripts": {
@@ -8,17 +8,9 @@
       "dev": "npx eleventy --serve",
       "build": "eleventy"
    },
-   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Tanvir9290/Roxo_eleventy.git"
-   },
    "keywords": [],
    "author": "",
-   "license": "ISC",
-   "bugs": {
-      "url": "https://github.com/Tanvir9290/Roxo_eleventy/issues"
-   },
-   "homepage": "https://github.com/Tanvir9290/Roxo_eleventy#readme",
+   "license": "MIT",
    "dependencies": {
       "@11ty/eleventy": "^2.0.1"
    }

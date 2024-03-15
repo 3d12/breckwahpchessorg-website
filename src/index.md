@@ -1,21 +1,29 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "WE WORK HARD, WE PLAY HARD"
+  subTitle: "At Breckenridge Wahpeton Chess, we believe that"
   title:
-    firstPara: "We’re a Design Studio"
-    secondPara: "That Believes In Great Ideas"
+    firstPara: "Chess is more than a game,"
+    secondPara: "it's our passion"
   seeWorkBtn:
-    text: "See Our Works"
-    link: "#project"
+    text: "Who We Are"
+    link: "about"
   connectBtn: 
     text: "Connect with us"
     link: "contact"
 
+achieve:
+  disabled: "true"
+
 portfolio:
+  disabled: "true"
   subTitle: "OUR RECENT WORKS"
   title: "Crafting experiences and seeking to make the complex clear & beautiful."
   seeAllbtn:
     link: "portfolio"
     text: "MORE WORKS"
+
+testimonials:
+  disabled: "true"
+
 ---

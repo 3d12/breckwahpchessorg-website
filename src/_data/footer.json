@@ -4,20 +4,12 @@
   "contactsHeading": "Contact Info",
   "contactsInfo":[
     {
-      "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
-      "text":"713 Elmwood St. Prior Lake, MN 55372"
+      "link":"https://maps.app.goo.gl/1NJMnnhUE6BPXKYd8",
+      "text":"730 Main St. Breckenridge, MN 56520"
     },
     {
-      "link":"tel:409-896-1444",
-      "text":"409-896-1444"
-    },
-    {
-      "link":"tel:409-781-1308",
-      "text":"409-781-1308"
-    },
-    {
-      "link":"mailto:",
-      "text":"info@roxo.co"
+      "link":"mailto:breckwahpchess@gmail.com",
+      "text":"breckwahpchess@gmail.com"
     }
   ],
 
@@ -25,7 +17,7 @@
   "siteMap":[
     {
       "link":"about",
-      "text":"About Company"
+      "text":"About Us"
     },
     {
       "link":"portfolio",
@@ -37,32 +29,24 @@
     },
     {
       "link":"terms-conditions",
-      "text":"Terms & Condition"
+      "text":"Terms & Conditions"
     }
   ],
 
   "socialHeading":"Social Media",
   "socialMedia":[
     {
-      "link":"#",
-      "text":"Medium"
+      "link":"https://www.facebook.com/people/Breckenridge-Wahpeton-Chess/61554099290457/",
+      "text":"Facebook"
     },
     {
-      "link":"#",
-      "text":"Behance"
-    },
-    {
-      "link":"#",
-      "text":"Dribbble"
-    },
-    {
-      "link":"#",
-      "text":"Instagram"
+      "link":"https://github.com/3d12/breckwahpchessorg-website",
+      "text":"Github"
     }
   ],
   
-  "brandHeading":"We help brands:",
-  "brandMotto":["develop design solutions","produce valuable cultural content","create fresh brand experience"],
+  "brandHeading":"What we do:",
+  "brandMotto":["Encourage critical thinking", "Build problem-solving skills", "Foster an atmosphere of positivity"],
 
   "back2topIcon":"/assets/images/to-top.svg",
   "customerComment":"I want to visit again"
