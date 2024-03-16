@@ -1,5 +1,8 @@
 ---
 layout: layouts/about.njk
-des: "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
+des: "Our passion is chess, but not just the game. We thrive on the spirit of collaboration and communication that manifests when a community gathers around the chessboard. We delight in the spark of wonder when someone sees a brilliant move for the first time. We live for the checkmates, the stalemates, and every risky or brilliant tactic available. We encourage thinking outside the box, and considering all the options. We believe that our community is our greatest strength, and that's where we choose to invest."
+trustedClients:
+  disabled: "true"
+
 ---
-# We are roxo design.<br>An award-winning creative studio in Florida.
+# We are Breckenridge Wahpeton Chess.<br>A community-focused non-profit organization based in Minnesota.

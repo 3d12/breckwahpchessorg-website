@@ -14,8 +14,9 @@
                 {{content | safe}}
               </div>
               <div class="site-project-single-image">
-                <img src="{{featureImg1}}" alt="project image">
-                <img src="{{featureImg2}}" alt="project image">
+                {% for featureImg in featureImgs %}
+                <a href="{{featureImg}}" target="_blank"><img src="{{featureImg}}" alt="event image"></a>
+                {% endfor %}
               </div>
               {% if collections.portfolios %}
               {% set nextPost = collections.portfolios | getNextCollectionItem(page) %}

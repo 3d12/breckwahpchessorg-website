@@ -1,6 +1,23 @@
 {
   "navLogo":"/assets/images/logo.png",
-  "navLinks":["home","about","portfolio","blog"],
+  "navLinks":[
+    {
+      "label": "home",
+      "location": "/"
+    },
+    {
+      "label": "about",
+      "location": "/about"
+    },
+    {
+      "label": "events",
+      "location": "/portfolio"
+    },
+    {
+      "label": "blog",
+      "location": "/blog"
+    }
+  ],
   "navBtnLink":"contact",
   "navBtnText":"Get in touch"
 }
