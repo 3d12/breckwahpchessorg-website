@@ -69,8 +69,8 @@ Please note this is a brief summary of your rights under the GDPR, and is not an
 
 To contact Breckenridge Wahpeton Chess with any questions about these rights, or in order to exercise these rights, you may contact us via email at [gdpr@breckwahpchess.org](mailto:gdpr@breckwahpchess.org)
 
-#### Contact and Complaints
+#### Contact and Concerns
 
 To contact us, you may submit a request via our contact form ([link here](/contact)), or email us directly at [breckwahpchess@gmail.com](mailto:breckwahpchess@gmail.com). We have also included contact information in the footer, which displays at the bottom of every page on this website.
 
-We will make a good faith effort to address and remediate any complaints, given that they are provided in a constructive manner. Please refrain from submitting complaints with abusive or violent language.
+We will make a good faith effort to address and remediate any concerns, given that they are provided in a constructive manner. Please refrain from submitting concerns with abusive or violent language.
