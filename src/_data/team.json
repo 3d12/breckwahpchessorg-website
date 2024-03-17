@@ -15,6 +15,17 @@
           "link": "#"
         }
       ]
+    },
+    {
+      "name": "NICK EDNER",
+      "dig": "CTO",
+      "img": "/assets/images/team/temp_avatar.jpg",
+      "social":[
+        {
+          "icon": "github",
+          "link": "https://github.com/3d12"
+        }
+      ]
     }
   ]
 }

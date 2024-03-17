@@ -77,6 +77,7 @@
   {% endblock %}
 
   {% block workTogether %}
+  {% if not workTogether.disabled %}
     <section class="site-cta">
       <div class="container">
         <div class="row">
@@ -106,6 +107,7 @@
         </div>
       </div>
     </section>
+  {% endif %}
   {% endblock %}
 
   {% block footer %}
