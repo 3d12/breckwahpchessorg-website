@@ -4,22 +4,14 @@
     {
       "name": "DOMINIK RAUBER",
       "dig": "CEO, COO",
-      "img": "/assets/images/team/temp_avatar.jpg",
+      "img": "/assets/images/team/dominik_avatar.jpg",
       "social":[
-        {
-          "icon": "facebook",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        }
       ]
     },
     {
       "name": "NICK EDNER",
       "dig": "CTO",
-      "img": "/assets/images/team/temp_avatar.jpg",
+      "img": "/assets/images/team/nick_avatar.jpg",
       "social":[
         {
           "icon": "github",
