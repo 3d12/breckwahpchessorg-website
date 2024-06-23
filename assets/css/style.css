@@ -119,6 +119,14 @@ h6 {
   background: #5D74CE;
 }
 
+.btn-tertiary {
+  background: #8B6995;
+  color: #fff;
+}
+.btn-tertiary:hover {
+  background: #75577E;
+}
+
 body {
   background: #fff;
 }

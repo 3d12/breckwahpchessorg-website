@@ -16,6 +16,10 @@
     {
       "label": "blog",
       "location": "/blog"
+    },
+    {
+      "label": "club",
+      "location": "https://breckwahpchess.com"
     }
   ],
   "navBtnLink":"contact",

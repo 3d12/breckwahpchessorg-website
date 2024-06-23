@@ -11,6 +11,9 @@ hero:
   connectBtn: 
     text: "Connect with us"
     link: "contact"
+  clubSiteBtn:
+    text: "Club Website"
+    link: "https://breckwahpchess.com"
 
 achieve:
   disabled: "true"
