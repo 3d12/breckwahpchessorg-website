@@ -1,6 +1,7 @@
 ---
 subTitle: "SEASONAL TOURNAMENT" 
 title: "WINTER CHESS CLASSIC 2024"
+date: 2024-01-27
 img: "https://www.dropbox.com/scl/fi/f1m1q0zu9xe05rfmowuv6/ChessTournamentPosterNewQR11x17.png?rlkey=txl5q4e6sak4f1ag66bwkmji6&raw=1"
 linkText: "view event"
 featureImgs: [
