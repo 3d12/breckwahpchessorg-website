@@ -3,14 +3,14 @@
   "teamMembers":[
     {
       "name": "DOMINIK RAUBER",
-      "dig": "CEO, COO",
+      "dig": "CEO & Content",
       "img": "/assets/images/team/dominik_avatar.jpg",
       "social":[
       ]
     },
     {
       "name": "NICK EDNER",
-      "dig": "CTO",
+      "dig": "CTO & Secretary",
       "img": "/assets/images/team/nick_avatar.jpg",
       "social":[
         {
@@ -18,6 +18,18 @@
           "link": "https://github.com/3d12"
         }
       ]
+    },
+    {
+      "name": "MANDY NELSON",
+      "dig": "Treasurer",
+      "img": "/assets/images/team/circle-user-solid.png",
+      "social":[]
+    },
+    {
+      "name": "GABBY EDNER",
+      "dig": "Event Coordinator",
+      "img": "/assets/images/team/circle-user-solid.png",
+      "social":[]
     }
   ]
 }
