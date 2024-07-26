@@ -29,4 +29,7 @@ jobs:
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
           TARGET: ${{ format('{0}{1}',secrets.REMOTE_TARGET,'_copy') }}
           EXCLUDE: "/_site/, /node_modules/"
-          SCRIPT_BEFORE: rm -rf ${{ secrets.REMOTE_TARGET }}
+          SCRIPT_AFTER: |
+            rm -rf ${{ secrets.REMOTE_TARGET }} && \
+            cp -r ${{ format('{0}{1}',secrets.REMOTE_TARGET,'_copy') }} ${{ secrets.REMOTE_TARGET }} && \
+            rm -rf ${{ format('{0}{1}',secrets.REMOTE_TARGET,'_copy') }}
