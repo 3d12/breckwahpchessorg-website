@@ -14,10 +14,6 @@
       "location": "/portfolio"
     },
     {
-      "label": "blog",
-      "location": "/blog"
-    },
-    {
       "label": "club",
       "location": "https://breckwahpchess.com"
     }
