@@ -3,19 +3,27 @@
   "teamMembers":[
     {
       "name": "DOMINIK RAUBER",
-      "dig": "CEO & Content",
+      "dig": "CEO & Founder",
       "img": "/assets/images/team/dominik_avatar.jpg",
       "social":[
+        {
+          "icon": "envelope",
+          "link": "mailto:dominik@breckwahpchess.org"
+        }
       ]
     },
     {
       "name": "NICK EDNER",
-      "dig": "CTO & Secretary",
+      "dig": "CTO",
       "img": "/assets/images/team/nick_avatar.jpg",
       "social":[
         {
           "icon": "github",
           "link": "https://github.com/3d12"
+        },
+        {
+          "icon": "envelope",
+          "link": "mailto:nick@breckwahpchess.org"
         }
       ]
     },
@@ -23,13 +31,23 @@
       "name": "MANDY NELSON",
       "dig": "Treasurer",
       "img": "/assets/images/team/circle-user-solid.png",
-      "social":[]
+      "social":[
+        {
+          "icon": "envelope",
+          "link": "mailto:mandy@breckwahpchess.org"
+        }
+      ]
     },
     {
       "name": "GABBY EDNER",
       "dig": "Event Coordinator",
       "img": "/assets/images/team/circle-user-solid.png",
-      "social":[]
+      "social":[
+        {
+          "icon": "envelope",
+          "link": "mailto:gabby@breckwahpchess.org"
+        }
+      ]
     }
   ]
 }
